@@ -1,0 +1,7 @@
+next on dog vs cat
+
+- learn transfer learning
+- keras image grab
+- try to do some preprocessing with opencv to simulate what i did with kearn
+- try make live video to detect cat vs dog (using the previous model)
+- try to make the model to read all images in file and change the picture name to cat or dog
