@@ -15,7 +15,7 @@ and in the loading the weights notebook  you can load the the model and weights 
 
 
 
-##usage 
+## usage 
 put the images you want to classify in the images directory 
 in the command line write   python run.py    or click on the python script 'run.py'
 after that all the images will be renamed and moved to the file output
